@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qian Li</title>
+    <link>https://qianli.github.io/</link>
+    <description>Recent content on Qian Li</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="https://qianli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Activities</title>
+      <link>https://qianli.github.io/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://qianli.github.io/activities/</guid>
+      <description>&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;
+&lt;h3 id=&#34;international-conference-on-optimization-techniques-and-applications-icota-2026&#34;&gt;International Conference on Optimization: Techniques and Applications (ICOTA 2026)&lt;/h3&gt;
+&lt;p&gt;Shanghai, China&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Talk&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
+&lt;h3 id=&#34;operations-research-and-information-forum&#34;&gt;Operations Research and Information Forum&lt;/h3&gt;
+&lt;p&gt;Chinese Academy of Sciences&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Talk&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;workshop-on-variational-analysis-and-nonsmooth-optimization&#34;&gt;Workshop on Variational Analysis and Nonsmooth Optimization&lt;/h3&gt;
+&lt;p&gt;The Hong Kong Polytechnic University&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Poster Presentation&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;h3 id=&#34;siam-conference-on-optimization-op23&#34;&gt;SIAM Conference on Optimization (OP23)&lt;/h3&gt;
+&lt;p&gt;Seattle, USA&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Talk&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://qianli.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://qianli.github.io/cv/</guid>
+      <description>&lt;h2 id=&#34;current-position&#34;&gt;Current Position&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lecturer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;School of Mathematics and Statistics&lt;br&gt;
+Shaanxi Normal University&lt;/p&gt;
+&lt;p&gt;July 2026 – Present&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Office:&lt;/strong&gt; Room 3301, Wenjin Building, Chang&amp;rsquo;an Campus&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;the-hong-kong-polytechnic-university&#34;&gt;The Hong Kong Polytechnic University&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ph.D. in Operations Research and Optimization Control&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Department of Applied Mathematics&lt;br&gt;
+2020 – 2025&lt;/p&gt;
+&lt;p&gt;Supervisor: Prof. Defeng Sun&lt;br&gt;
+Co-supervisor: Prof. Binyan Jiang&lt;/p&gt;
+&lt;h3 id=&#34;the-hong-kong-polytechnic-university-1&#34;&gt;The Hong Kong Polytechnic University&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;M.Sc. in Operations and Risk Analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Department of Applied Mathematics&lt;br&gt;
+2018 – 2020&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Distinction&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;northwestern-university&#34;&gt;Northwestern University&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;B.Sc. in Mathematics and Applied Mathematics&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://qianli.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://qianli.github.io/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://qianli.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://qianli.github.io/research/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
