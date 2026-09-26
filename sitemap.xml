@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qianli-ql-xa.github.io/activities/</loc>
+    <loc>/activities/</loc>
   </url><url>
-    <loc>https://qianli-ql-xa.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://qianli-ql-xa.github.io/cv/</loc>
+    <loc>/cv/</loc>
   </url><url>
-    <loc>https://qianli-ql-xa.github.io/publications/</loc>
+    <loc>/publications/</loc>
   </url><url>
-    <loc>https://qianli-ql-xa.github.io/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://qianli-ql-xa.github.io/research/</loc>
+    <loc>/research/</loc>
   </url><url>
-    <loc>https://qianli-ql-xa.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

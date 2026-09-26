@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Qian Li</title>
-    <link>https://qianli-ql-xa.github.io/</link>
+    <link>/</link>
     <description>Recent content on Qian Li</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://qianli-ql-xa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic Activities</title>
-      <link>https://qianli-ql-xa.github.io/activities/</link>
+      <link>/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://qianli-ql-xa.github.io/activities/</guid>
+      <guid>/activities/</guid>
       <description>&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;
 &lt;h3 id=&#34;international-conference-on-optimization-techniques-and-applications-icota-2026&#34;&gt;International Conference on Optimization: Techniques and Applications (ICOTA 2026)&lt;/h3&gt;
 &lt;p&gt;Shanghai, China&lt;/p&gt;
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://qianli-ql-xa.github.io/cv/</link>
+      <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://qianli-ql-xa.github.io/cv/</guid>
+      <guid>/cv/</guid>
       <description>&lt;h2 id=&#34;current-position&#34;&gt;Current Position&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Lecturer&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;School of Mathematics and Statistics&lt;br&gt;
@@ -56,16 +56,16 @@ Co-supervisor: Prof. Binyan Jiang&lt;/p&gt;
     </item>
     <item>
       <title>Publications</title>
-      <link>https://qianli-ql-xa.github.io/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://qianli-ql-xa.github.io/publications/</guid>
+      <guid>/publications/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://qianli-ql-xa.github.io/research/</link>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://qianli-ql-xa.github.io/research/</guid>
+      <guid>/research/</guid>
       <description></description>
     </item>
   </channel>
